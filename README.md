@@ -61,6 +61,6 @@ python basic_calculator.py
 ## 📂 Project Structure:
 
 basic-calculator/
-│
-├── basic_calculator.py    # Main Python file containing the calculator code
-└── README.md              # Project documentation (this file)
+|
+|-- basic_calculator.py    # Main Python file containing the calculator code
+|__ README.md              # Project documentation (this file)
