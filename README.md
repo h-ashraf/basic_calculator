@@ -57,10 +57,3 @@ python basic_calculator.py
 4. You can perform operations like addition, subtraction, multiplication, and division.
 
 ---
-
-## 📂 Project Structure:
-
-basic-calculator/
-|
-|-- basic_calculator.py    # Main Python file containing the calculator code
-|__ README.md              # Project documentation (this file)
